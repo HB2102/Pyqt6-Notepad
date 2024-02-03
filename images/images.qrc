@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="images">
+    <file>bold_icon2.png</file>
+    <file>undo_icon.png</file>
+    <file>right_align_icon.png</file>
+    <file>underlinr_icon.png.png</file>
+    <file>underlinr_icon.png</file>
+    <file>about_icon.png</file>
+    <file>about_qt_icon.png</file>
+    <file>bold_icon.png</file>
+    <file>cente_icon.png</file>
+    <file>colors_icon.png</file>
+    <file>copy_icon.png</file>
+    <file>cut_icon.png</file>
+    <file>exit_icon.png</file>
+    <file>font_icon.png</file>
+    <file>images.qrc</file>
+    <file>italic_icon.png</file>
+    <file>justify_icon.png</file>
+    <file>left_align_icon.png</file>
+    <file>new_file_icon.png</file>
+    <file>new_icon.png</file>
+    <file>next_icon.png</file>
+    <file>open_icon.png</file>
+    <file>paste_icon.png</file>
+    <file>pdf_icon.png</file>
+    <file>previous_icon.png</file>
+    <file>print_icon.png</file>
+    <file>print_preview_icon.png</file>
+    <file>save_icon.png</file>
+  </qresource>
+</RCC>
